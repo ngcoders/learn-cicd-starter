@@ -3,7 +3,7 @@
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
 
-![code coverage badge](https://github.com/ngcoders/learn-cicd-starter/workflows/Tests/badge.svg)
+![code coverage badge](https://github.com/ngcoders/learn-cicd-starter/actions/workflows/Tests/badge.svg)
 
 ## Local Development
 
