@@ -3,13 +3,13 @@
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
 
-![code coverage badge](https://github.com/ngcoders/learn-cicd-starter/actions/workflows/Tests/badge.svg)
+![Code Coverage](https://github.com/ngcoders/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 ## Local Development
 
 Make sure you're on Go version 1.20+.
 
-Create a `.env` file in the root of the project with the following contents:
+Create a `.env` filein the root of the project with the following contents:
 
 ```bash
 PORT="8000"
